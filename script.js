@@ -20,3 +20,8 @@ function realizarSaque() {
 
     $displayMensagem.innerText = 'Saque realizado com sucesso!';
 }
+function realizarDeposito() {
+
+
+    
+}
