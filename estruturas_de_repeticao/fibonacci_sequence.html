@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fibonacci Sequence</title>
+</head>
+<body>
+    <script>
+        
+        let anterior = 0;
+        let atual = 1
+        
+        //for clássico
+        for (let i = 0; i < 50; i++) {
+            let proximo = anterior + atual;
+            console.log(proximo);
+
+            anterior = atual;
+            atual = proximo;
+        }
+
+        
+    </script>
+</body>
+</html>
