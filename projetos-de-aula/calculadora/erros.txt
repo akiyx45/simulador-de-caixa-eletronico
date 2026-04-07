@@ -1,0 +1,10 @@
+1. Erro do listener no Console quando inicia aplicação
+2. Mensagens do histórico de consultas não aparecem
+3. A lista de histórico mostra consultas duplicadas
+4. Quando calcula o resultado aparece NaN
+5. O histórico de consultas exibe opções vazias
+6. Quando há muitas casas decimais, não precisam aparecer todas
+7. Quando coloco valor 0 (zero) ou deixo vazio, exibe alerta de valor invalido mas adiciona a conversão no histórico de consultas
+8. Se seleciono a mesma moeda em "DE" e no "PARA", não deve fazer a conversão
+9. Quando atualizo a página, perde o histórico
+10. Quando faço um cálculo, deve limpar o campo de valor
